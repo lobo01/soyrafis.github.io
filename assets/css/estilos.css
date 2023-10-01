@@ -20,19 +20,6 @@ body {
   background-position: center;
 }
 
-/* Contact */
-
-#Contact form label {
-  font-weight: 700;
-  color: #373a3c;
-}
-
-@media (max-width: 768px) {
-  #Contact form label {
-    font-weight: 400;
-  }
-
-  .navbar-brand {
-    width: 100px;
-  }
+.navbar-brand {
+  width: 100px;
 }

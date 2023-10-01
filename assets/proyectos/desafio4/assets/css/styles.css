@@ -1,0 +1,55 @@
+.cuppon-logo {
+  width: 86px;
+  height: 25px;
+}
+
+.submit-button {
+  width: 113px;
+  height: 40px;
+}
+
+.footer-logo {
+  width: 82px;
+  height: 24px;
+}
+
+.cuppon-text {
+  margin: 0;
+  top: 14px;
+  position: relative;
+}
+
+.card-title {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 21px;
+  color: #212529;
+}
+
+.card-text-principal {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  color: #707070;
+}
+
+.card-text {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 13px;
+  color: #707070;
+}
+
+.price-full {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  color: #707070;
+}
+
+.footer-copy {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  color: #707070;
+}

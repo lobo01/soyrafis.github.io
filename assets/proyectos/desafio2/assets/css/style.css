@@ -1,0 +1,53 @@
+/* Inicio cuerpo */
+body {
+  color: black;
+  font-family: "Lucida Sans", "Timer New Roman", "fantasy";
+  font-size: 16px;
+  background-color: white;
+  text-align: justify;
+}
+/* Fin de cuerpo */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+/* Inicio Header */
+.header {
+  background-color: black;
+  background-image: url(../img/headerhp.jpg);
+  width: 100%;
+  height: 150px;
+  background-position: left;
+  background-repeat: repeat;
+  color: white;
+  font-size: 16px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-align: center;
+}
+/* Fin de header */
+/* Inicio de Table */
+table {
+  align-content: center;
+  width: 50%;
+  tab-size: 100px;
+  margin: auto;
+}
+.gif {
+  text-align: center;
+  width: 100px;
+}
+/* Fin de table */
+/* Inicio de Pie de Pagina */
+.footer1 {
+  font-size: 12px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 20px;
+  background-color: black;
+  text-align: center;
+  color: white;
+}
+/* Fin de Pie de Pagina */
